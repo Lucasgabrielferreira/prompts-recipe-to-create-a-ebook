@@ -33,9 +33,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de um ebook sobre o tema de Prompt para ChatGPT, o ebook é do nicho progrmação e o subnicho Prompt acertivos, o titulo deve ser epico e curto, e tenha uma tematica de star wars no titulo, me liste 5 variações de titulo 
 
-| conteúdo | Faça texto  para ebook, com foco prompt acertivos {REGRAS} >Explique sempre de uma maneira simpres, >Deixe o texto enxuto, >Sempre traga exemplos de Prompt em contextos reais,
->Sempre deixe um titulo sugestivo por tópico
-
+| conteúdo | Faça texto  para ebook, com foco prompt acertivos {REGRAS} >Explique sempre de uma maneira simpres, >Deixe o texto enxuto, >Sempre traga exemplos de Prompt em contextos reais, >Sempre deixe um titulo sugestivo por tópico
 
 Midjourney：
 
